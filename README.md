@@ -1,2 +1,2 @@
-# testpage.github.io
+# testpage
 Deploy test single page
